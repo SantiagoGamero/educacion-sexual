@@ -1,0 +1,40 @@
+.inicio{
+    border-color: red;
+    border-style: solid;
+    border-radius: 10px;
+    background-color: red;
+    text-decoration: none;
+    color: white;
+}
+.beneficios {
+    border-color: blueviolet;
+    border-style: solid;
+    border-radius: 10px;
+    background-color: blueviolet;
+    text-decoration: none;
+    color: white;
+}
+.desventajas{
+    border-color: gold;
+    border-style: solid;
+    border-radius: 10px;
+    background-color: gold;
+    text-decoration: none;
+    color: white;
+}
+.datoc{
+    border-color: greenyellow;
+    border-style: solid;
+    border-radius: 10px;
+    background-color: greenyellow;
+    text-decoration: none;
+    color: white;
+}
+.cprotegerse{
+    border-color: green;
+    border-style: solid;
+    border-radius: 10px;
+    background-color: green;
+    text-decoration: none;
+    color: white;
+}
